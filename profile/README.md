@@ -53,7 +53,6 @@ This GitHub organization provides public resources for developers, administrator
 Featured repositories:
 
 - [.NET API Client for EcholoN](https://github.com/EcholoN-software/echolon-api-client)
-- [Eco CLEF Viewer](https://github.com/EcholoN-software/eco-clefviewer)
 
 Planned resources may include:
 
