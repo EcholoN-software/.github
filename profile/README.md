@@ -71,6 +71,6 @@ Planned resources may include:
 
 ## About EcholoN
 
-EcholoN is developed by mIT solutions GmbH and supports companies in digitizing, structuring and automating business processes across departments.
+EcholoN is developed by [mIT solutions GmbH](https://www.mitsolutions.de/) and supports companies in digitizing, structuring and automating business processes across departments.
 
 The software combines many years of service management experience with a flexible platform approach for modern enterprise applications.
