@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="echolon-github-hero.png" alt="EcholoN Enterprise Application Framework" width="100%">
+</p>
+
 # EcholoN Software
 
 **Enterprise Application Framework for digital processes, service management, workflow automation and structured documentation.**
