@@ -1,4 +1,3 @@
-Enterprise Application Framework for digital processes, service management, workflow automation and structured documentation.
 # EcholoN Software
 
 **EcholoN is an Enterprise Application Framework for digital processes, service management, workflow automation and structured documentation.**
