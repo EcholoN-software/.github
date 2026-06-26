@@ -66,7 +66,6 @@ Planned resources may include:
 - [EcholoN Software](https://www.echolon.de/)
 - [EcholoN Solutions](https://www.echolon.de/de/loesungen/)
 - [EcholoN Blog](https://www.echolon.de/de/blog/)
-- [Single Point of Contact in Service Management](https://www.echolon.de/de/blog/spoc-single-point-of-contact/)
 
 ---
 
